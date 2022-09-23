@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpbcomp
-- 👀 I’m interested in networking
+- 👀 I’m interested in IoT Networking
 - 🌱 I’m currently learning CCNA, HTML/CSS/JS, Python
 
 
